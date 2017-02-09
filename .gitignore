@@ -5,4 +5,4 @@
 .project
 .settings/
 backend/build/
-backend/target
+backend/target/
