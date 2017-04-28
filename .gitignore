@@ -6,3 +6,4 @@
 .settings/
 backend/build/
 backend/target/
+/target/
